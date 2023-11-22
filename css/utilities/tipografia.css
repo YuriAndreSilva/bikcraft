@@ -4,3 +4,10 @@
     font-family: 'Poppins';
     font-weight: 600px;
 }
+
+.texto-medio {
+    font-size: 24px;
+    line-height: 1.5;
+    font-family: 'Roboto';
+    font-weight: 400;
+}
